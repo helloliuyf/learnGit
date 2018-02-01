@@ -3,5 +3,10 @@ add branch dev
 Creating a new branch is quick AND simple.
 this is dev branch1
 this is feature1 and dev branch2
-
 this is master beanch bug fix
+this is dev branch2
+this is dev branch2 to fix
+this is dev branch3 fix bug
+this is dev branch3 fix bug2
+this is dev branch3 fix bug3
+
